@@ -10,4 +10,8 @@
     
     1.3. Tipus de llenguatge de programació.
     
+    1.4. Paradigmes de programació.
+    
+    1.5. Característiques de llenguatges més difosos.
+    
     
