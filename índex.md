@@ -4,14 +4,14 @@
 
   __1. Desenvolupament del programari.__
   
-    1.1. Concepte de programari informàtic.
+    [__1.1. Concepte de programari informàtic__.]
 
-    1.2. Codi font, codi objecte i codi executable; màquines virtuals.
+    [__1.2. Codi font, codi objecte i codi executable; màquines virtuals__.]
     
-    1.3. Tipus de llenguatge de programació.
+    [__1.3. Tipus de llenguatge de programació__.]
     
-    1.4. Paradigmes de programació.
+    [__1.4. Paradigmes de programació__.]
     
-    1.5. Característiques de llenguatges més difosos.
+    [__1.5. Característiques de llenguatges més difosos__.]
     
     
