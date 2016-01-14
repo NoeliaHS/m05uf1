@@ -1,12 +1,12 @@
-###__M05. Entorns de desenvolupament.__
+###__M05. Entorns de desenvolupament__.
 
 ####_ÍNDEX_
 
-  __1. Desenvolupament del programari.__
+  __1. Desenvolupament del programari__.
   
     [__1.1. Concepte de programari informàtic__.](programa_informatic.md)
-
-    [__1.2. Codi font, codi objecte i codi executable; màquines virtuals__.](codi_font.md)
+    
+    [__1.2. Codi font, codi objecte i codi executable; màquines virtuas__.](codi_font.md)
     
     [__1.3. Tipus de llenguatge de programació__.](tipus.md)
     
