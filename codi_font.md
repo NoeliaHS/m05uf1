@@ -13,7 +13,7 @@
  
  <p>Aquest procès, se l'anomena:<p>
  
- #####_Compilació_
+ ####_Compilació_
  
  <p>Què és la traducció del codi font dels fitxers del programa en fitxers de format binari: __CODI OBJECTE__. 
  Aquest codi, no es pot executar.<p>
