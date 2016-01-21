@@ -15,5 +15,9 @@
 ####[__1.5. Característiques de llenguatges més difosos__.](difosos.md)
 
 ####[__1.6. Fases del desemvolupament dels sistemes d'informació__. ](fases.md)
+
+####[__1.7. Procés d'obtenció de codi executable a partir del codi font; eines implicades.__. ](obtenició_codi.md)
+
+
     
     
