@@ -13,5 +13,7 @@
 ####[__1.4. Paradigmes de programació__.](paradigmes.md)
     
 ####[__1.5. Característiques de llenguatges més difosos__.](difosos.md)
+
+####[__1.6. Fases del desemvolupament dels sistemes d'informació__. ](fases.md)
     
     
