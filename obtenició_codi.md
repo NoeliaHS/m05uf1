@@ -9,7 +9,7 @@ sino que ha de ser traduit per un altre llenguatge (màquina o codi objecte) que
 computadora. Per aquesta traducció, s'utilitzen els anomenats complidaors, ensambladors, intérpretres i altre sistemes<p>
 <p>Nosaltres veurem els següents:<p>
 
-<p>___Codi objecte____ Està compost per un conjunt de dades escrites en un llenguatge de tipus binari o codi màquina 
+<p>___Codi objecte___ Està compost per un conjunt de dades escrites en un llenguatge de tipus binari o codi màquina 
 obtinguts de la traducció d'un anterior codi font, entesos directament per l'ordinador. És una part del programa llesta 
 per funcionar, però està exposada a tenir errors i en processos de compilacio dels seus resultats ha de enllaçar-se per 
 obtenir l'arxiu executable.<p>
