@@ -7,7 +7,6 @@ que la computadora ha de seguir per executrar dit programa.<p
 <p>El codi font, està escrit per un programador, però aquest primer estat no es directament executable per la computadora, 
 sino que ha de ser traduit per un altre llenguatge (màquina o codi objecte) que si pot ser executat per el hardware de la 
 computadora. Per aquesta traducció, s'utilitzen els anomenats complidaors, ensambladors, intérpretres i altre sistemes<p>
-<p>Nosaltres veurem els següents:<p>
 
 <p>___Codi objecte___ Està compost per un conjunt de dades escrites en un llenguatge de tipus binari o codi màquina 
 obtinguts de la traducció d'un anterior codi font, entesos directament per l'ordinador. És una part del programa llesta 
